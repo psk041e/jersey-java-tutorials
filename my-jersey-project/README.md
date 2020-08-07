@@ -1,10 +1,13 @@
 #Jersey API를 사용한 REST 웹 서비스 작성
+[Jersey Java Tutorial](https://www.journaldev.com/498/jersey-java-tutorial#summary)
+
 
 #Softwares and Tools
 	- jdk1.8.0_202 64bit
-	- apache maven embeded
+	- apache maven 3.5.3
 	- tomcat 8.5.57 64bit
 	- eclipse IDE for Java EE 2018-09 64bit
+	- jersey 1.19.4
 	
 #step
 1. Dynamic Java Project 생성
